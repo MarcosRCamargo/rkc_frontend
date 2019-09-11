@@ -10,7 +10,7 @@
          <img src={logo} alt="Tindev" />
             <ul>
                 <li>
-                    <img src="https://avatars0.githubusercontent.com/u/4248081?v=4"alt="" />
+                    <img src="https://avatars1.githubusercontent.com/u/12204644?v=4"alt="" />
                     <footer>
                         <strong>Marcos Camargo</strong>
                         <p>CTO na @Rocketseat. Apaixonado por Javascript, ReactJS, React Native, NodeJS e todo ecossistema em torno dessas tecnologias.</p>
@@ -25,7 +25,7 @@
                     </div>
                 </li>
                 <li>
-                    <img src="https://avatars0.githubusercontent.com/u/4248081?v=4"alt="" />
+                     <img src="https://avatars1.githubusercontent.com/u/12204644?v=4"alt="" />
                     <footer>
                         <strong>Marcos Camargo</strong>
                         <p>CTO na @Rocketseat. Apaixonado por Javascript, ReactJS, React Native, NodeJS e todo ecossistema em torno dessas tecnologias.</p>
@@ -40,7 +40,7 @@
                     </div>
                 </li>
                 <li>
-                    <img src="https://avatars0.githubusercontent.com/u/4248081?v=4"alt="" />
+                     <img src="https://avatars1.githubusercontent.com/u/12204644?v=4"alt="" />
                     <footer>
                         <strong>Marcos Camargo</strong>
                         <p>CTO na @Rocketseat. Apaixonado por Javascript, ReactJS, React Native, NodeJS e todo ecossistema em torno dessas tecnologias.</p>
@@ -55,7 +55,7 @@
                     </div>
                 </li>
                 <li>
-                    <img src="https://avatars0.githubusercontent.com/u/4248081?v=4"alt="" />
+                     <img src="https://avatars1.githubusercontent.com/u/12204644?v=4"alt="" />
                     <footer>
                         <strong>Marcos Camargo</strong>
                         <p>CTO na @Rocketseat. Apaixonado por Javascript, ReactJS, React Native, NodeJS e todo ecossistema em torno dessas tecnologias.</p>
@@ -70,10 +70,10 @@
                     </div>
                 </li>
                 <li>
-                    <img src="https://avatars0.githubusercontent.com/u/4248081?v=4"alt="" />
+                <img src="https://avatars1.githubusercontent.com/u/12204644?v=4"alt="" />
                     <footer>
                         <strong>Marcos Camargo</strong>
-                        <p>CTO na @Rocketseat. Apaixonado por Javascript, ReactJS, React Native, NodeJS e todo ecossistema em torno dessas tecnologias.</p>
+                        <p>Bacharel em Sistemas de Informação. Instrutor de tecnologia na Happy Code. Dedicado a educação tecnológica e programação.Empreendedor e sonhador.</p>
                     </footer>
                     <div className="buttons">
                         <button className="like">
