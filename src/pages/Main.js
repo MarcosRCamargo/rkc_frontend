@@ -7,7 +7,7 @@
  export default function Main({ match }){
      return (
         <div className="main-container">
-        <img src={logo} alt="Tindev" />
+         <img src={logo} alt="Tindev" />
             <ul>
                 <li>
                     <img src="https://avatars0.githubusercontent.com/u/4248081?v=4"alt="" />
@@ -24,8 +24,6 @@
                         </button>
                     </div>
                 </li>
-            </ul>
-            <ul>
                 <li>
                     <img src="https://avatars0.githubusercontent.com/u/4248081?v=4"alt="" />
                     <footer>
@@ -41,8 +39,6 @@
                         </button>
                     </div>
                 </li>
-            </ul>
-            <ul>
                 <li>
                     <img src="https://avatars0.githubusercontent.com/u/4248081?v=4"alt="" />
                     <footer>
@@ -58,8 +54,6 @@
                         </button>
                     </div>
                 </li>
-            </ul>
-            <ul>
                 <li>
                     <img src="https://avatars0.githubusercontent.com/u/4248081?v=4"alt="" />
                     <footer>
@@ -71,6 +65,21 @@
                             <img src={heart_solid} alt="Like" />
                         </button>
                         <button>
+                            <img src={times_solid} alt="Like" />
+                        </button>
+                    </div>
+                </li>
+                <li>
+                    <img src="https://avatars0.githubusercontent.com/u/4248081?v=4"alt="" />
+                    <footer>
+                        <strong>Marcos Camargo</strong>
+                        <p>CTO na @Rocketseat. Apaixonado por Javascript, ReactJS, React Native, NodeJS e todo ecossistema em torno dessas tecnologias.</p>
+                    </footer>
+                    <div className="buttons">
+                        <button className="like">
+                            <img src={heart_solid} alt="Like" />
+                        </button>
+                        <button className="deslike">
                             <img src={times_solid} alt="Like" />
                         </button>
                     </div>
